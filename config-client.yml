@@ -1,0 +1,6 @@
+server:
+  port: 8672
+---
+spring:
+  profiles: dev
+foo: foo version git
